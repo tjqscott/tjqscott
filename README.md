@@ -1,3 +1,3 @@
 <video autoplay loop muted playsinline>
-  <source src="factory.webm" type="video/webm">
+  <source src="animation.webm" type="video/webm">
 </video>
